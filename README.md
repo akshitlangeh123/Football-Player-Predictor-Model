@@ -1,0 +1,2 @@
+# Football-Player-Predictor-Model
+The aim of our model is to help various scouts representing a football team to find the ideal player. With the help of various machine learning algorithms, the model identifies the overall rating of a non – professional player that is yet to be professional. Not only the overall, but the potential that the player carries and also the various positions the player can play in the team
